@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/DiAngello">
+  <a href="https://github.com/DiAngello/sudoku">
     <img src="./logo-sudoku.png" alt="Logo" width="150" >
   </a>
 
