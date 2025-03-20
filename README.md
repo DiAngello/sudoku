@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/DiAngello">
-    <img src="./logo-sudoku.png" alt="Logo" >
+    <img src="./logo-sudoku.png" alt="Logo" width="150" >
   </a>
 
   <h3 align="center">Projeto Sudoku</h3>
@@ -44,11 +44,6 @@
 
 Este é um jogo de Sudoku simples onde o objetivo é completar o tabuleiro com números de 1 a 9 sem repetir em linhas, colunas e subquadrantes 3x3.
 
-### Funcionalidades principais:
-- Tabuleiro de Sudoku gerado dinamicamente.
-- Verificação de erros enquanto o jogador preenche as células.
-- Interface responsiva com feedback visual sobre os erros.
-
 ![Demo](l)
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
@@ -65,15 +60,11 @@ Este é um jogo de Sudoku simples onde o objetivo é completar o tabuleiro com n
 <!-- GETTING STARTED -->
 ## Como iniciar ▶️
 
-### Pré-requisitos ✅
-
-Não há pré-requisitos para rodar o projeto. Basta ter um navegador moderno que suporte HTML5, CSS3 e JavaScript.
-
 ### Instalação 📦
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/DiAngello/sudoku.git```
+   git clone https://github.com/DiAngello/sudoku.git
 
 2. Abra o arquivo index.html em seu navegador.
 
@@ -81,17 +72,17 @@ Não há pré-requisitos para rodar o projeto. Basta ter um navegador moderno qu
 
 <!-- USAGE EXAMPLES -->
 
-Uso 📌
+## Uso 📌
 
-    Clique nos números abaixo do tabuleiro para selecionar o número desejado.
-    Clique nas células do tabuleiro para preencher com o número selecionado.
-    O contador de erros aumentará sempre que um número errado for colocado em uma célula.
+* Clique nos números abaixo do tabuleiro para selecionar o número desejado.
+* Clique nas células do tabuleiro para preencher com o número selecionado.
+* O contador de erros aumentará sempre que um número errado for colocado em uma célula.
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p> 
 
 <!-- CONTACT -->
 
-Contatos 🌟
+## Contatos 🌟
 
 Andressa de Souza - aka DiAngello - andressa.gabrielly.ofc@gmail.com
 
