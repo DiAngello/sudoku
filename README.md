@@ -42,9 +42,9 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto 💡
 
-Este é um jogo de Sudoku simples onde o objetivo é completar o tabuleiro com números de 1 a 9 sem repetir em linhas, colunas e subquadrantes 3x3.
+![Demo](./demo.PNG)
 
-![Demo](l)
+Este é um jogo de Sudoku simples onde o objetivo é completar o tabuleiro com números de 1 a 9 sem repetir em linhas, colunas e subquadrantes 3x3.
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
